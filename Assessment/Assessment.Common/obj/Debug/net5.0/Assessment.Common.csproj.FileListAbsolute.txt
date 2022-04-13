@@ -1,0 +1,12 @@
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/bin/Debug/net5.0/Assessment.Common.deps.json
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/bin/Debug/net5.0/Assessment.Common.dll
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/bin/Debug/net5.0/ref/Assessment.Common.dll
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/bin/Debug/net5.0/Assessment.Common.pdb
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.csproj.AssemblyReference.cache
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.AssemblyInfoInputs.cache
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.AssemblyInfo.cs
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.csproj.CoreCompileInputs.cache
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.dll
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/ref/Assessment.Common.dll
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/obj/Debug/net5.0/Assessment.Common.pdb

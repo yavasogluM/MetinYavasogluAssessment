@@ -8,4 +8,8 @@
       <PackageReference Include="MongoDB.Driver" Version="2.15.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Assessment.Common\Assessment.Common.csproj" />
+    </ItemGroup>
+
 </Project>

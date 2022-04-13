@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Assessment.Data/1.0.0": {
         "dependencies": {
+          "Assessment.Common": "1.0.0",
           "MongoDB.Driver": "2.15.0"
         },
         "runtime": {
@@ -149,7 +150,12 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
-      "System.Security.Principal.Windows/5.0.0": {}
+      "System.Security.Principal.Windows/5.0.0": {},
+      "Assessment.Common/1.0.0": {
+        "runtime": {
+          "Assessment.Common.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -241,6 +247,11 @@
       "sha512": "sha512-t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
+    },
+    "Assessment.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

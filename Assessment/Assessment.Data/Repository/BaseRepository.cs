@@ -91,11 +91,7 @@ namespace Assessment.Data.Repository
 
         public T GetById(string Id) => collection.Find(x => x.Id == new ObjectId(Id)).FirstOrDefault();
 
-        public async Task<T> GetByIdAsync(string Id)
-        {
-            var objId = new ObjectId(Id);
-            return await collection.Find(x => x.Id == objId).FirstAsync();
-        }
+        public async Task<T> GetByIdAsync(string Id) => await collection.Find(x => x.Id == new ObjectId(Id)).FirstAsync();
 
         public void InsertItem(T item) => collection.InsertOne(item);
 

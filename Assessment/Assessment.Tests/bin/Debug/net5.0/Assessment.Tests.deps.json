@@ -1216,8 +1216,14 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
+      "Assessment.Common/1.0.0": {
+        "runtime": {
+          "Assessment.Common.dll": {}
+        }
+      },
       "Assessment.Data/1.0.0": {
         "dependencies": {
+          "Assessment.Common": "1.0.0",
           "MongoDB.Driver": "2.15.0"
         },
         "runtime": {
@@ -1945,6 +1951,11 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "Assessment.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Assessment.Data/1.0.0": {
       "type": "project",

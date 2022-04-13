@@ -1866,10 +1866,21 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Assessment.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Assessment.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.Common.dll": {}
+        }
+      },
       "Assessment.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Assessment.Common": "1.0.0",
           "MongoDB.Driver": "2.15.0"
         },
         "compile": {
@@ -6476,6 +6487,11 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Assessment.Common/1.0.0": {
+      "type": "project",
+      "path": "../Assessment.Common/Assessment.Common.csproj",
+      "msbuildProject": "../Assessment.Common/Assessment.Common.csproj"
     },
     "Assessment.Data/1.0.0": {
       "type": "project",

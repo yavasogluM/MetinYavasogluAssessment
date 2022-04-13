@@ -104,8 +104,10 @@
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/Assessment.Common.dll
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/Assessment.Data.dll
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/Assessment.Data.pdb
+/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/bin/Debug/net5.0/Assessment.Common.pdb
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/obj/Debug/net5.0/Assessment.Tests.csproj.AssemblyReference.cache
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/obj/Debug/net5.0/Assessment.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Tests/obj/Debug/net5.0/Assessment.Tests.AssemblyInfoInputs.cache

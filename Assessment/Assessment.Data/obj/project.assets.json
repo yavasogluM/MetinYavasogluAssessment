@@ -221,6 +221,16 @@
             "rid": "win"
           }
         }
+      },
+      "Assessment.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Assessment.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.Common.dll": {}
+        }
       }
     }
   },
@@ -616,10 +626,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Assessment.Common/1.0.0": {
+      "type": "project",
+      "path": "../Assessment.Common/Assessment.Common.csproj",
+      "msbuildProject": "../Assessment.Common/Assessment.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Assessment.Common >= 1.0.0",
       "MongoDB.Driver >= 2.15.0"
     ]
   },
@@ -647,7 +663,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/Assessment.Common.csproj": {
+              "projectPath": "/Users/metin.yavasoglu/Desktop/MetinYavasogluAssessment/Assessment/Assessment.Common/Assessment.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
